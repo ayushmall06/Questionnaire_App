@@ -5,4 +5,4 @@ A new Flutter project.
 ## Getting Started
 
 The homescreen of the app looks like:-
-![](1.png)
+![HomeScreen](1.png)
